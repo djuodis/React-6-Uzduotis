@@ -34,8 +34,6 @@ const Main = () => {
 
   return (
     <>
-    
-   
     <main>
       <p>Filter                           : </p>
       <div className                      = "filter-section">

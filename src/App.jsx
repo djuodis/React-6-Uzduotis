@@ -5,7 +5,7 @@ import Form from './pages/Form'
 
 function App() {
   return (
-    <Router> {}
+    <Router> 
       <Routes>
         <Route path   = '/' element={<Home />} />
         <Route path   = '/form' element={<Form />} />
